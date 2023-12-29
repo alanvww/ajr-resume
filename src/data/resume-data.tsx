@@ -20,19 +20,19 @@ import { LinkedInIcon } from "../components/icons/LinkedInIcon";
 import { XIcon } from "../components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Junhao Alan Ren",
+  initials: "JR",
+  location: "New York, NY, EST",
+  locationLink: "https://www.google.com/maps/place/New+York,+NY",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "Front End Developer with 3 years of experience in building web applications. I am passionate about building products that are user-friendly and accessible.",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "As a Front End Developer, I have successfully taken multiple projects from 0 to 1. Currently, I work mostly with TypeScript, React, Node.js.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://alan.ooo",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "alan.j.ren@pm.me",
+    tel: "+16464944949",
     social: [
       {
         name: "GitHub",
@@ -53,10 +53,16 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "New York University - Tandon School of Engineering",
+      degree: "Bachelor's Degree in Integrated Digital Media",
+      start: "2020",
+      end: "2022",
+    },
+    {
+      school: "New York University - Tisch School of the Arts",
+      degree: "Master's Degree in Interactive Telecommunications",
+      start: "2023",
+      end: "2025",
     },
   ],
   work: [
